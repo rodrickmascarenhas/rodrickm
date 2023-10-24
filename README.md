@@ -1,4 +1,4 @@
-**Data Analyst**
+**<h2 style="color:blue">Data Analyst</h2>**
 <hr>
 <b>Welcome to my Data Portfolio!</b>
 <br>I'm passionate about solving real-world problems using data and technology.
