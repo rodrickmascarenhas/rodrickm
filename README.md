@@ -1,4 +1,4 @@
-**Rodrick Mascarenhas**
+**<h2>Rodrick Mascarenhas</h2>**
 <p style="color:blue;">Data Analyst<hr /></p>
 <b>Welcome to my Data Portfolio!</b>
 <br>I'm passionate about solving real-world problems using data and technology.
